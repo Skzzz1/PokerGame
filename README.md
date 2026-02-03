@@ -1,6 +1,7 @@
 # Unity Poker Game
 
 A fully-functional Texas Hold'em poker game built in Unity with bot opponents, proper hand evaluation, side pot support, and turn-based gameplay.
+<img width="948" height="523" alt="Screenshot 2026-02-03 at 2 26 22 pm" src="https://github.com/user-attachments/assets/4385c8ba-0d85-44c9-a49b-933a732ba653" />
 
 ## 🎮 Features
 
@@ -27,6 +28,8 @@ A fully-functional Texas Hold'em poker game built in Unity with bot opponents, p
 - **Pot Tracking**: Live pot amount updates
 - **Turn Indicators**: Clear indication of whose turn it is
 - **Dealer Button**: Rotates properly between hands
+
+<img width="945" height="526" alt="Screenshot 2026-02-03 at 2 26 59 pm" src="https://github.com/user-attachments/assets/02f93231-5c01-4d7b-b91d-62ec9bec5a9b" />
 
 ## 📋 Requirements
 
@@ -73,6 +76,7 @@ From highest to lowest:
 8. **Two Pair**: J♠ J♥ 8♦ 8♣ A♠
 9. **Pair**: 10♠ 10♥ K♦ Q♣ 9♠
 10. **High Card**: A♠ K♥ Q♦ 8♣ 5♠
+
 
 ## 🐛 Known Issues & Solutions
 
