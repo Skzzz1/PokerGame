@@ -1,6 +1,6 @@
 # Unity Poker Game
 
-A fully-functional Texas Hold'em poker game built in Unity with AI opponents, proper hand evaluation, side pot support, and turn-based gameplay.
+A fully-functional Texas Hold'em poker game built in Unity with bot opponents, proper hand evaluation, side pot support, and turn-based gameplay.
 
 ## 🎮 Features
 
